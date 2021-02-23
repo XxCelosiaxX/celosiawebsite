@@ -1,7 +1,7 @@
 # Celosia Website
 Celosia is learning HTML
 
-Check it out here:
+Check out the current progress here:
 https://xxcelosiaxx.github.io/celosiawebsite/
 
 Project status: [In progress]
