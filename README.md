@@ -3,6 +3,8 @@ Celosia is learning HTML
 
 Check out the current progress here:
 https://xxcelosiaxx.github.io/celosiawebsite/
+OR 
+AWS hosted: http://3.12.34.32/
 
 Project status: [In progress]
 
